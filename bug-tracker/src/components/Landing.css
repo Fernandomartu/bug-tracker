@@ -1,0 +1,10 @@
+.landing-form {
+    display: grid;
+    position: relative;
+    justify-content: center;
+    justify-self: center;
+    width: 400px;
+    height: 400px;
+    top: 25vh;
+    background-color: gray;
+}
